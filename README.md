@@ -5,7 +5,7 @@
 In this project I have trained sentiment analysis models on the IMDb dataset
 These models predict if the given review about the movie is either positive or negative
 
-I have compared the 5 modles that i have trained on the basis of Accuracy,Precision,Recall and F1 Score
+I have compared the 5 models that I have trained on the basis of Accuracy,Precision,Recall and F1 Score
 
 ## Approach:
 
